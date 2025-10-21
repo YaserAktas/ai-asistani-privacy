@@ -1,2 +1,1 @@
-# ai-asistani-privacy
-AI Asistanı Chrome uzantısı için Gizlilik Politikası
+Bu depo GitHub Pages üzerinden gizlilik politikası yayınlar.
